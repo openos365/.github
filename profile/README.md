@@ -41,6 +41,7 @@ Openos365 is an open source Community dedicated to easy-to-use pre-installed , p
   An archive image suitable for the Windows Subsystem For Linux container engine. The image can be loaded From a Windows System that has support for WSL activated. 
   
 ## 4 Join Openos365 Community 
+  * test
   * submit issues
   * write docs
   * write code
