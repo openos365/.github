@@ -1,10 +1,8 @@
-## openos365
-
 # Welcome to Openos365 Community
 
 ## 1 what？
 
-Openos365 is an open source Community dedicated to easy-to-use pre-installed , pre-configed, customizing development and test os images 
+Openos365 is an open source Community dedicated to create easy-to-use pre-installed , pre-configed, customizing development and test os images 
 
 
 ## 2 why? [What is it good for?]
